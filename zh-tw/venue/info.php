@@ -1,6 +1,6 @@
 <?php
 $contents = array(
-	"index" => "首頁",
+	"index" => "地點",
 	"transportation" => "交通",
 	"hotels-and-accommodations" => "住宿"
 );
