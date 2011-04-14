@@ -6,7 +6,7 @@ $contents = array(
 	"session" => "議程",
 	"venue" => "地點",
 	"http://blog.coscup.org/" => "部落格",
-	"sponsor" => "贊助商"
+	"sponsor" => "贊助商",
 	"contact" => "聯絡資訊"
 );
 

@@ -6,7 +6,7 @@ $contents = array(
 	"session" => "Session",
 	"venue" => "Venue",
 	"http://blog.coscup.org/" => "Blog",
-	"sponsors" => "Sponsors"
+	"sponsors" => "Sponsors",
 	"contact" => "Contact Us"
 );
 
