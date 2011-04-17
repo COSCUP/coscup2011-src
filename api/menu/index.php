@@ -2,7 +2,7 @@
 
 if ($_GET['callback'])
 {
-	if (!ctype_alnum($_GET['callback']))
+	if (!preg_match("/^[0-9a-zA-Z_\-]+$/", $_GET['callback']))
 	{
 		header("400 Bad Request");
 	}
