@@ -6,7 +6,7 @@
 	<div class="images"></div>
 	<p class="more"><a href="http://www.flickr.com/groups/coscup2010-selection/pool/">瀏覽全部</a></p>
 	<h2>COSCUP 2010 演講錄影</h2>
-	<iframe class="video" title="YouTube video player" width="288" height="246" src="http://www.youtube.com/embed/sr8uVCBxXcU" frameborder="0" allowfullscreen></iframe>
+	<iframe class="video" title="YouTube video player" width="288" height="246" src="http://www.youtube.com/embed/sr8uVCBxXcU" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 	<p class="more"><a href="#">瀏覽全部</a></p>
 </div>
 
