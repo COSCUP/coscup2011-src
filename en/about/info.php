@@ -1,7 +1,7 @@
 <?php
 $contents = array(
 	"index" => "About",
-	"team" => "Team"
+//	"team" => "Team"
 );
 
 $menu_hidden = array("index");
