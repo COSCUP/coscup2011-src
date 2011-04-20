@@ -1,4 +1,4 @@
-<iframe width="100%" height="300" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.com.tw/maps/ms?hl=zh-TW&amp;ie=UTF8&amp;hq=&amp;hnear=%E7%9A%87%E5%90%8E%E9%8E%AE%E6%A3%AE%E6%9E%97&amp;brcurrent=3,0x3442ab495b606237:0x20444928bf584bbf,1,0x3442ac6b61dbbd9d:0xc0c243da98cba64b&amp;source=embed&amp;msa=0&amp;msid=105791092538675671159.0004859c3dab86bad587a&amp;ll=25.049525,121.612558&amp;spn=0.038879,0.048151&amp;z=14&amp;output=embed"></iframe>
+<iframe width="100%" height="300" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.com.tw/maps/ms?ie=UTF8&amp;brcurrent=3,0x3442ab495b606237:0x20444928bf584bbf,0,0x3442ac6b61dbbd9d:0xc0c243da98cba64b&amp;msa=0&amp;msid=211565165749517597023.0004859c3dab86bad587a&amp;ll=25.048747,121.612043&amp;spn=0.023327,0.054846&amp;z=14&amp;output=embed"></iframe>
 
 ## COSCUP 2011 會場地點
 
