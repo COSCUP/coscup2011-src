@@ -2,7 +2,7 @@
 $contents = array(
 	"index" => "Home",
 //	"http://register.coscup.org/" => "Register",
-	"about" => "About",
+	"about" => "About Us",
 //	"program" => "Program",
 	"venue" => "Venue",
 	"http://blog.coscup.org/" => "Blog",
