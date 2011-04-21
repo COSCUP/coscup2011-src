@@ -1,4 +1,3 @@
-Calling for Sponsors
---------------------
+## Sponsorship Opportunities
 
-(Please modify coscup2011-src/blocks/call_for_sponsors-en.md)
+（文字說明）
