@@ -1,6 +1,6 @@
 <?php
 $contents = array(
-	"index" => "活動",
+	"index" => "活動簡介",
 //	"team" => "籌備團隊"
 );
 

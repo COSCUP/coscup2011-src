@@ -2,7 +2,7 @@
 $contents = array(
 	"index" => "首頁",
 //	"http://register.coscup.org/" => "報名",
-	"about" => "關於活動",
+	"about" => "活動簡介",
 //	"program" => "議程徵求",
 	"venue" => "地點",
 	"http://blog.coscup.org/" => "部落格",
