@@ -1,4 +1,4 @@
-<div id="sidebar2">
+<div id="sidebar2" class="hideInMobile">
 	<div class="intro">
 		<p>COSCUP is the largest open source conference in Taiwan, organized by communities.</p>
 		<p class="more"><a href="about/">Learn more »</a></p>

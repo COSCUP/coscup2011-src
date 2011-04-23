@@ -1,4 +1,4 @@
-<div id="sidebar2">
+<div id="sidebar2" class="hideInMobile">
 	<div class="intro">
 		<p>COSCUP 是由社群組織、台灣最大的開放原始碼軟體研討會。</p>
 		<p class="more"><a href="about/">了解更多 »</a></p>
