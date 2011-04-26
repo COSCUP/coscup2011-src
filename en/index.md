@@ -19,7 +19,17 @@ COSCUP is the largest annual <abbr title="Free/Libre/Open Source Software">FLOSS
 
 ### Call for Paper will be started from May 7th
 
-（今年主題介紹）
+The main theme of COSCUP 2011 is "Gadgets beyond Smartphones". Phones
+based on Google's open source Android operating system are leading in the
+U.S., U.K., France, Germany and Japan. Besides smart phones, the
+introduction of the tablet-only Android 3.0 (Honeycomb) has spurred many
+analysts to predict that the wave of tablets this year will be dominated by
+Android-based devices. The adoption of open source software doesn't stop
+there. Televisions, set-top boxes, in-car information systems, medical
+hand-held devices are all being built with open source software -- Google
+TV, Next TV's popular set-top box in Taiwan are just 2 such examples. It is
+clear that the open source paradigm has established a strong foothold in the
+device space.
 
 ### Sponsor COSCUP
 
