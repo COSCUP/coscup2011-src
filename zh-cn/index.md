@@ -1,9 +1,9 @@
 <div id="sidebar2" class="hideInMobile">
 	<div class="intro">
-		<p>COSCUP 是由社群组织、台湾最大的开放原始码软体研讨会。 </p>
+		<p>COSCUP 是由社区组织、台湾最大的开放源代码软件研讨会。 </p>
 		<p class="more"><a href="about/">了解更多»</a></p>
 	</div>
-	<h2>Facebook 粉丝团</h2>
+	<h2>Facebook 粉丝页面</h2>
 	<iframe src="https://www.facebook.com/plugins/likebox.php?href=https%3A%2F%2Fwww.facebook.com%2Fcoscup&amp;width=288&amp;colorscheme=light&amp;show_faces=false&amp;stream =false&amp;header=true&amp;height=62" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:288px; height:62px; background-color: #fff"></iframe>
 	<h2>COSCUP 2010 演讲录影</h2>
 	<iframe class="video" title="YouTube video player" width="288" height="246" style="width: 288px; height: 246px" src="http://www.youtube.com/embed/sr8uVCBxXcU" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
@@ -15,17 +15,17 @@
 
 ## COSCUP 2011 赞助征求中！
 
-开放原始码的三大支柱是开发者、使用者与推广者。开发者（大神）是主要的生产者，但同时也是其它程式的使用者。在使用者了解<abbr title="自由与开放原始码软体">FLOSS</abbr> 文化、熟练技能之后，也将成为下一代的开发者或推广者。推广者是扩大使用者数目的的重要媒介，也是COSCUP 最所想扮演的角色。 COSCUP 希望藉由每一届的年度会议，让世界各地的<abbr title="自由与开放原始码软体">FLOSS</abbr> 爱好者齐聚一堂, 并邀请世界各地的专家上台分享经验，想法与新的技术，来共同的激发国内外的爱好者更加踊跃投入<abbr title="自由与开放原始码软体">FLOSS</abbr> 的开发与使用。
+开放源代码的三大支柱是开发者、使用者与推广者。开发者（大神）是主要的生产者，但同时也是其它程序的使用者。在使用者了解<abbr title="自由与开放源代码软件">FLOSS</abbr> 文化、熟练技能之后，也将成为下一代的开发者或推广者。推广者是扩大使用者数目的重要媒介，也是COSCUP 最所想扮演的角色。 COSCUP 希望借由每一届的年度会议，让世界各地的<abbr title="自由与开放源代码软件">FLOSS</abbr> 爱好者齐聚一堂, 并邀请世界各地的专家上台分享经验，想法与新的技术，来共同的激发国内外的爱好者更加踊跃投入<abbr title="自由与开放源代码软件">FLOSS</abbr> 的开发与使用。
 
 ### Call for Proposals 将于 5 月 7 日开始
 
 COSCUP 2011 的主题定为「Gadgets beyond Smartphones」。近几年来，市场上以开放源码为基础的gadget
-不管是行动装置还是非行动装置越来越多。以行动装置来说，在智慧型手机市场上由Google Android
-所引领的以开放源码为基础的智慧型手机势不可挡，年初Honeycomb 发表以后，Android
-平台在平板电脑方面亦有长足进步，可以想见未来会有更多用到的开放源码的行动消费电子产品。在非行动装置方面，以电视和机上盒而言，因应联网需求其实早就从各式各样
+不管是移动设备还是非移动设备越来越多。以行动装置来说，在智慧型手机市场上由Google Android
+所引领的以开放源码为基础的智能手机势不可挡，年初Honeycomb 发表以后，Android
+平台在平板电脑方面亦有长足进步，可以想见未来会有更多用到的开放源码的移动消费电子产品。在非移动设备方面，以电视和机上盒而言，因应联网需求其实早就从各式各样
 proprietary RTOS 往 embedded Linux 移动。去年 Google 在 Google I/O 发表 Google TV
 以后，更增添了大家对Android-based TV 以及其他Linux
-平台的想像空间。在台湾，这几个月的壹电视『网乐通』风潮，以及后来网乐通释出所使用u-boot 与linux 原始码也让大家看到开放源码的威力。
+平台的想像空间。在台湾，这几个月的壹电视『网乐通』风潮，以及后来网乐通释出所使用u-boot 与linux 源代码也让大家看到开放源码的威力。
 
 ### 赞助 COSCUP
 

@@ -5,7 +5,7 @@ $contents = array(
 	"about" => "活动",
 //	"program" => "议程",
 	"venue" => "地点",
-	"http://blog.coscup.org/" => "部落格",
+	"http://blog.coscup.org/" => "博客",
 	"sponsors" => "赞助商",
 	"contact" => "联络资讯"
 );
