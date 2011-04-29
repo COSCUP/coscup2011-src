@@ -1,6 +1,6 @@
 <?php
 $contents = array(
-	"index" => "联络资讯"
+	"index" => "联系方式"
 );
 
 $menu_hidden = array("index");
