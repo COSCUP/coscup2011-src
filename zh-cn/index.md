@@ -7,10 +7,10 @@
 	<iframe src="https://www.facebook.com/plugins/likebox.php?href=https%3A%2F%2Fwww.facebook.com%2Fcoscup&amp;width=288&amp;colorscheme=light&amp;show_faces=false&amp;stream =false&amp;header=true&amp;height=62" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:288px; height:62px; background-color: #fff"></iframe>
 	<h2>COSCUP 2010 演讲录影</h2>
     <object width="288" height="246" class="video">
-      <param name="movie" value="http://www.youtube.com/p/74F06EB83BBBC445?hl=zh_TW&fs=1"></param>
+      <param name="movie" value="http://www.youtube.com/p/74F06EB83BBBC445?hl=zh_CN&fs=1"></param>
       <param name="allowFullScreen" value="true"></param>
       <param name="allowscriptaccess" value="always"></param>
-      <embed src="http://www.youtube.com/p/74F06EB83BBBC445?hl=zh_TW&fs=1" type="application/x-shockwave-flash" width="288" height="246" allowscriptaccess="always" allowfullscreen="true"></embed>
+      <embed src="http://www.youtube.com/p/74F06EB83BBBC445?hl=zh_CN&fs=1" type="application/x-shockwave-flash" width="288" height="246" allowscriptaccess="always" allowfullscreen="true"></embed>
     </object>
     <p class="more">更多：
         <a href="http://www.youtube.com/my_playlists?p=6B44377354D83D41">首日</a>、
