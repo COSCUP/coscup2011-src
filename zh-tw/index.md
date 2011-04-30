@@ -12,10 +12,10 @@
       <param name="allowscriptaccess" value="always"></param>
       <embed src="http://www.youtube.com/p/74F06EB83BBBC445?hl=zh_TW&fs=1" type="application/x-shockwave-flash" width="288" height="246" allowscriptaccess="always" allowfullscreen="true"></embed>
     </object>
-    <p class="more">更多影片：
-        <a href="http://www.youtube.com/my_playlists?p=6B44377354D83D41">首日</a>, 
-        <a href="http://www.youtube.com/my_playlists?p=31632A9DC6140024">次日</a>, 
-        <a href="http://www.youtube.com/my_playlists?p=C56D2E96312D2A53">閃電秀</a>
+    <p class="more">瀏覽：
+        <a href="http://www.youtube.com/my_playlists?p=6B44377354D83D41">首日</a>、
+        <a href="http://www.youtube.com/my_playlists?p=31632A9DC6140024">次日</a>、 
+        <a href="http://www.youtube.com/my_playlists?p=C56D2E96312D2A53">閃電秀</a> »
     </p>
 	<h2>COSCUP 2010 精選照片集</h2>
 	<div class="images"></div>
