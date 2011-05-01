@@ -1,4 +1,5 @@
 ## 关于活动
+
 传统商业软件的开发者（coders）和使用者（users）很少交流，是大家都接受的事实。
 
 你的软件用起来有问题？请打技术支持电话，由客服人员为你服务，他或许已经尽其所能，但未必能解决你的问题。如果问题是软件的臭虫，你只好痴痴地等待不知几年后才开卖的下一版。而你当初之所以选用Ａ软件而不是Ｂ软件，常常是听信销售员（sales）的一面之词或同侪的推荐。在这个行为模式下，users 面对的是销售员和客服，coders 面对的还是销售员和客服，users 遇到的问题要间接地才能反应到 coders 手上，中间还可能会被过滤掉。
@@ -10,7 +11,9 @@ Coders、users 和 promoters 是让 open source 软件发光发热的三大支�
 COSCUP 研讨会已堂堂迈入第六年，六年来不但由各地社群共同举办，在众多同好的参与之下，逐渐成长茁壮。无论你是写 open source 软件的开发者、热衷 open source 软件的推广者、熟悉 open source 软件的使用者或是想了解 open source 软件的新手，都欢迎你来参加一年一度全台最大的开源人年会。
 
 ### 2011 筹备团队
+
 此处仅列出各组组长，完整清单请见手册。
+
 * 总召集人：Pingooo (Taipei Open Source Software User Group, Tossug)
 * 议程主席：Freedom – (long time open source hacker)
 * 销售经理：[Ernest Chiang](http://blog.ernestchiang.com/) (Mozilla Taiwan Community, MozTW)
