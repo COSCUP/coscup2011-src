@@ -45,7 +45,9 @@ device space.
 
 ### Sponsor COSCUP
 
-（繼續介紹）
+If your organization identify with the Open Source philosophy,
+or prefer to promote your brands and products,
+or searching for talents, please contact <sponsorship@coscup.org>.
 
 ### Important Dates
 

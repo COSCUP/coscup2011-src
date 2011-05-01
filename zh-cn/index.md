@@ -41,7 +41,7 @@ proprietary RTOS 往 embedded Linux 移动。去年 Google 在 Google I/O 发表
 
 ### 赞助 COSCUP
 
-（继续介绍）
+若贵单位支持 Open Source 理念，或欲为贵单位的品牌、产品等提升知名度，亦或是探寻专业人才，请与 <sponsorship@coscup.org> 联络。
 
 ### 重要日期
 
