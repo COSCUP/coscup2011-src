@@ -31,7 +31,7 @@ COSCUP is the largest annual <abbr title="Free/Libre/Open Source Software">FLOSS
 
 ### Call for Proposals will be started from May 7th
 
-The main theme of COSCUP 2011 is "Gadgets beyond Smartphones". Phones
+The main theme of COSCUP 2011 is “Gadgets beyond Smartphones”. Phones
 based on Google's open source Android operating system are leading the market in the
 U.S., U.K., France, Germany and Japan. Besides smartphones, the
 introduction of the tablet-only Android 3.0 (Honeycomb) has spurred many
