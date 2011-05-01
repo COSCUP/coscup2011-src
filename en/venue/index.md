@@ -10,4 +10,4 @@
 ### Transportation
 
 * <a target="_blank" href="http://home.sinica.edu.tw/en/site/location.html">Location and Map of Academia Sinica</a>
-* <a target="_blank" href="http://www.sinica.edu.tw/as/map/asmap.html">Campus of Academia Sinica: No.24, Humanities and Social Sciences Building (HSSB)</a>
+* <a target="_blank" href="http://www.sinica.edu.tw/as/map/asmap.html">Academia Sinica Campus: No.24, Humanities and Social Sciences Building (HSSB)</a>

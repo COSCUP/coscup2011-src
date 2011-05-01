@@ -5,7 +5,7 @@
 ### 2011 Organizing Team
 
 * Organizer-in-chief: Pingooo (Taipei Open Source Software User Group, Tossug)
-* Lead of Program Committee: Freedom – (long time open source hacker)
+* Program Committee Leader: Freedom – (long time open source hacker)
 * Sponsorship: [Ernest Chiang](http://blog.ernestchiang.com/) (Mozilla Taiwan Community, MozTW)
 * Marketing: Bob Chao (Mozilla Taiwan Community, MozTW)
 * Public Relations: John Lee
