@@ -10,4 +10,4 @@ $contents = array(
 	"contact" => "聯絡資訊"
 );
 
-$menu_hidden = array("index", "contact");
+$menu_hidden = array("index", "contact", "sponsors");
