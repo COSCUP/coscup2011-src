@@ -10,7 +10,7 @@ Coders、users 和 promoters 是让 open source 软件发光发热的三大支�
 COSCUP 研讨会已堂堂迈入第六年，六年来不但由各地社群共同举办，在众多同好的参与之下，逐渐成长茁壮。无论你是写 open source 软件的开发者、热衷 open source 软件的推广者、熟悉 open source 软件的使用者或是想了解 open source 软件的新手，都欢迎你来参加一年一度全台最大的开源人年会。
 
 ### 2011 筹备团队
-
+此处仅列出各组组长，完整清单请见手册。
 * 总召集人：Pingooo (Taipei Open Source Software User Group, Tossug)
 * 议程主席：Freedom – (long time open source hacker)
 * 销售经理：[Ernest Chiang](http://blog.ernestchiang.com/) (Mozilla Taiwan Community, MozTW)
