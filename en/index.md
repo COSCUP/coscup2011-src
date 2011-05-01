@@ -38,7 +38,7 @@ introduction of the tablet-only Android 3.0 (Honeycomb) has spurred many
 analysts to predict that the wave of tablets this year will be dominated by
 Android-based devices. The adoption of open source software doesn't stop
 there. Televisions, set-top boxes, in-car information systems, medical
-hand-held devices are all being built with open source software -- Google
+hand-held devices are all being built with open source software — Google
 TV and Next TV's popular set-top box in Taiwan are just 2 such examples. It is
 clear that the open source paradigm has established a strong foothold in the
 device space.
