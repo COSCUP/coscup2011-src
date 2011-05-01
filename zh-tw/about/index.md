@@ -7,7 +7,7 @@
 * 總召集人：Pingooo (Taipei Open Source Software User Group, Tossug)
 * 議程主席：Freedom – (long time open source hacker)
 * 銷售經理：[Ernest Chiang](http://blog.ernestchiang.com/) (Mozilla Taiwan Community, MozTW)
-* 行銷經理：Bob Chao (Mozilla Taiwan Community, MozTW)
+* 行銷經理：[Bob Chao](http://blog.bobchao.net/) (Mozilla Taiwan Community, MozTW)
 * 公關經理：John Lee
 * 網站長：[timdream](http://timc.idv.tw/) (Mozilla Taiwan Community, MozTW)
 * 會眾長：choupi (Taipei Open Source Software User Group, Tossug)
