@@ -10,10 +10,10 @@
 	<p class="more">More: <a href="https://search.twitter.com/search?q=coscup+OR+from%3Acoscup">Twitter</a>, <a href="http://www.plurk.com/psearch#q=COSCUP">Plurk</a> »</p>
 	<h2>COSCUP 2010 Videos</h2>
     <object width="288" height="246" class="video">
-      <param name="movie" value="http://www.youtube.com/p/74F06EB83BBBC445?hl=en&fs=1"></param>
-      <param name="allowFullScreen" value="true"></param>
-      <param name="allowscriptaccess" value="always"></param>
-      <embed src="http://www.youtube.com/p/74F06EB83BBBC445?hl=en&fs=1" type="application/x-shockwave-flash" width="288" height="246" allowscriptaccess="always" allowfullscreen="true"></embed>
+      <param name="movie" value="http://www.youtube.com/p/74F06EB83BBBC445?hl=en&amp;fs=1"/>
+      <param name="allowFullScreen" value="true"/>
+      <param name="allowscriptaccess" value="always"/>
+      <embed src="http://www.youtube.com/p/74F06EB83BBBC445?hl=en&amp;fs=1" type="application/x-shockwave-flash" width="288" height="246" allowscriptaccess="always" allowfullscreen="true"></embed>
     </object>
     <p class="more">More: 
         <a href="http://www.youtube.com/view_play_list?p=6B44377354D83D41">Day 1</a>, 
