@@ -10,10 +10,10 @@
 * Marketing: Bob Chao (Mozilla Taiwan Community, MozTW)
 * Public Relations: John Lee
 * Web Services: [timdream](http://timc.idv.tw/) (Mozilla Taiwan Community, MozTW)
-* 會眾長：choupi (Taipei Open Source Software User Group, Tossug)
-* 場務長：threesecond
+* Attendee Relations: choupi (Taipei Open Source Software User Group, Tossug)
+* Event Staff Lead: threesecond
 * Venue Networking: David Huang
-* Archiving：[Yuren Ju](http://yurinfore.blogspot.com/) (Hacking Thrusday)
+* Archiving: [Yuren Ju](http://yurinfore.blogspot.com/) (Hacking Thrusday)
 * Chief Counselor: [Jouston](http://jouston.net/)
 * Accounting: Lloyd Huang (Kaohsiung Linux User Group, KaLUG)
 * Secretary: [smallfish515](https://www.facebook.com/smallfish515) (Mozilla Taiwan Community, MozTW)
