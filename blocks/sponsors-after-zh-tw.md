@@ -1,3 +1,3 @@
 ## 贊助 COSCUP
 
-如果您有意贊助 COSCUP 2011，請寄 e-mail 到 <sponsorship@coscup.org>，謝謝！
+如果您欲贊助 COSCUP 2011，請與 <sponsorship@coscup.org> 聯絡。
