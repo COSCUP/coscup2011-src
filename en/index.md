@@ -5,6 +5,9 @@
 	</div>
 	<h2>Facebook Page</h2>
 	<iframe src="https://www.facebook.com/plugins/likebox.php?href=https%3A%2F%2Fwww.facebook.com%2Fcoscup&amp;width=288&amp;colorscheme=light&amp;show_faces=false&amp;stream=false&amp;header=true&amp;height=62" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:288px; height:62px; background-color: #fff"></iframe>
+	<h2>Social Buzz <small>(Tag: #coscup)</small></h2>
+	<div class="socialbuzz"></div>
+	<p class="more">More: <a href="https://search.twitter.com/search?q=coscup+OR+from%3Acoscup">Twitter</a>, <a href="http://www.plurk.com/psearch#q=COSCUP">Plurk</a> »</p>
 	<h2>COSCUP 2010 Videos</h2>
     <object width="288" height="246" class="video">
       <param name="movie" value="http://www.youtube.com/p/74F06EB83BBBC445?hl=en&fs=1"></param>

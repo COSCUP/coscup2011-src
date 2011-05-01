@@ -5,6 +5,9 @@
 	</div>
 	<h2>Facebook 粉丝页面</h2>
 	<iframe src="https://www.facebook.com/plugins/likebox.php?href=https%3A%2F%2Fwww.facebook.com%2Fcoscup&amp;width=288&amp;colorscheme=light&amp;show_faces=false&amp;stream =false&amp;header=true&amp;height=62" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:288px; height:62px; background-color: #fff"></iframe>
+	<h2>Social Buzz <small>(Tag: #coscup)</small></h2>
+	<div class="socialbuzz"></div>
+	<p class="more">更多：<a href="https://search.twitter.com/search?q=coscup+OR+from%3Acoscup">Twitter</a>、<a href="http://www.plurk.com/psearch#q=COSCUP">噗浪</a> »</p>
 	<h2>COSCUP 2010 演讲录影</h2>
     <object width="288" height="246" class="video">
       <param name="movie" value="http://www.youtube.com/p/74F06EB83BBBC445?hl=zh_CN&fs=1"></param>
