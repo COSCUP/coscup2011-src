@@ -8,7 +8,7 @@ COSCUP 2011 is the 6th incarnation of the series. COSCUP has becomes the biggest
 
 ### 2011 Organizing Team
 
-Only leaders are listed here. For complete team member listing, please check out the booklet.
+For complete team member listing, please check out the booklet.
 
 * Organizer-in-chief: Pingooo (Taipei Open Source Software User Group, Tossug)
 * Program Committee Leader: Freedom – (long time open source hacker)
