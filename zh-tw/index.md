@@ -37,7 +37,7 @@ COSCUP 2011 的主題定為「Gadgets beyond Smartphones」。近幾年來，市
 平台在平板電腦方面亦有長足進步。可以想見未來會有更多用到的開放源碼的行動消費電子產品。在非行動裝置方面，以電視和機上盒而言，因應聯網需求其實早就從各式各樣
 proprietary RTOS 往 embedded Linux 移動。去年 Google 在 Google I/O 發表 Google TV
 以後，更增添了大家對 Android-based TV 以及其他 Linux
-平台的想像空間。在台灣，這幾個月的壹電視『網樂通』風潮，以及後來網樂通釋出所使用 u-boot 與 linux 原始碼也讓大家看到開放源碼的威力。
+平台的想像空間。在台灣，這幾個月的壹電視『網樂通』風潮，以及後來網樂通釋出所使用 u-boot 與 Linux 原始碼也讓大家看到開放源碼的威力。
 
 ### 贊助 COSCUP
 
