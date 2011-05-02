@@ -32,7 +32,7 @@
 ### Call for Proposals 将于 5 月 7 日开始
 
 COSCUP 2011 的主题定为「Gadgets beyond Smartphones」。近几年来，市场上以开放源码为基础的gadget
-不管是移动设备还是非移动设备都有越来越多的趋势。以行动装置来说，在智慧型手机市场上由Google Android
+不管是移动设备还是非移动设备都有越来越多的趋势。以移动设备来说，在智能手机市场上由Google Android
 所引领的以开放源码为基础的智能手机势不可挡。年初 Honeycomb 发表以后，Android
 平台在平板电脑方面亦有长足进步。可以想见未来会有更多的开放源码的移动消费电子产品。在非移动设备方面，以电视和机上盒而言，因应联网需求其实早就从各式各样
 proprietary RTOS 往 embedded Linux 移动。去年 Google 在 Google I/O 发表 Google TV
