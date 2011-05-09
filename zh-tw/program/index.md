@@ -36,3 +36,47 @@
 * 簡要自我介紹
 
 COSCUP 議程委員會將會在 2011 年 7 月 10 日前通知您是否被接受、以及安排的時段。（如有幸邀您演講，將另請您提供 800x800 以上之照片電子檔一張。）
+
+### 會議簡介
+
+COSCUP 是由台灣主要的 Open Source 社群聯合主辦，包括 Debian Taiwan、KaLug、MozTW、PyTUG、TOSSUG、TWPUG、Ubuntu-TW 等等。本年度研討會的網站已經上線，而包括本屆在內，每年研討會的網站資料皆可於 http://coscup.org/ 取得。有關 COSCUP 的部落格文章和相片，可以在各大搜尋引擎及相簿網站查詢關鍵字「COSCUP」。
+
+每年都有許多人報名參加 COSCUP，2010 年更是破紀錄，在開放報名不到ㄧ小時名額就被一掃而空，並有近千名與會者。2011年，COSCUP 堂堂邁入第六屆，我們預期會有超過 1000 人參加，是您發表 Open Source 相關議題，並與眾人激盪腦力的絕佳場合。
+
+### 關於您的聽眾
+
+COSCUP 與會者很多都是在相關社群中現任的工作者及活躍人士，與會者與 Open Source 軟體間的關係、以及職業分佈等統計，請見圖表。聽眾多有中英文交流能力，若有必要、您的講題亦可以英文發表。
+
+2010 年與會人數共約 997 人，於晚上八點開放報名後，於極短暫的時間內爆滿。報名人次約有半數為業界人士、半數為學生。會後填寫問卷的 175 人中，85% 的問卷對於議程給予接近滿分的分數，99% 的問卷願意推薦親友參加 COSCUP。
+
+<div class="alignleft" style="height: 360px">
+
+<h4>COSCUP / GNOME.Asia 2010 報名速度</h4>
+
+<p><img alt="COSCUP / GNOME.Asia 2010 報名速度" src="register-time.png" class="aligncenter" /></p>
+
+</div>
+
+<div class="alignleft" style="height: 360px">
+
+<h4>會眾職業</h4>
+
+<p><img alt="會眾職業" src="occupation.png" class="aligncenter" /></p>
+
+</div>
+
+<div class="alignleft" style="height: 360px">
+
+<h4>議程滿意度</h4>
+
+<p><img alt="議程滿意度" src="like.png" class="aligncenter" /></p>
+
+</div>
+
+<div class="alignleft" style="height: 360px">
+
+<h4>您是否願意推薦親友參加明年的 COSCUP？</h4>
+
+<p><img alt="您是否願意推薦親友參加明年的 COSCUP？" src="recommendation.png" class="aligncenter" /></p>
+
+</div>
