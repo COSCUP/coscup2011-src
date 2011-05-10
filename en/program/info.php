@@ -1,6 +1,7 @@
 <?php
 $contents = array(
-	"index" => "Program"
+	"index" => "Program",
+	"testing" => ""
 );
 
-$menu_hidden = array("index");
+$menu_hidden = array("index", "testing");
