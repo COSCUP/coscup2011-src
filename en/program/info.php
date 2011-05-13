@@ -1,6 +1,6 @@
 <?php
 $contents = array(
-	"index" => "Program",
+	"index" => "Call for Proposals",
 	"testing" => ""
 );
 
