@@ -25,11 +25,11 @@
 	<p class="more"><a href="http://www.flickr.com/groups/coscup2010-selection/pool/">View all »</a></p>
 </div>
 
-## COSCUP 2011 is calling for sponsorships!
+## COSCUP 2011
 
 COSCUP is the largest annual <abbr title="Free/Libre/Open Source Software">FLOSS</abbr> conference organized by local communities in Taiwan. The conference has sessions for new users, enthusiastic promoters, coders or anyone who is interested in cutting-edge <abbr title="Free/Libre/Open Source Software">FLOSS</abbr> technologies. The goal is to create a friendly and informative environment for people from different communities to make friends, learn new technologies and inspire each other.
 
-### Call for Proposals will be started from May 7th
+## Call for Proposals: Submit your talk today!
 
 The main theme of COSCUP 2011 is “Gadgets beyond Smartphones”. Phones
 based on Google's open source Android operating system are leading the market in the
@@ -43,7 +43,7 @@ TV and Next TV's popular set-top box in Taiwan are just 2 such examples. It is
 clear that the open source paradigm has established a strong foothold in the
 device space.
 
-### Sponsor COSCUP
+## Sponsor COSCUP
 
 If your organization identify with the Open Source philosophy,
 or prefer to promote your brands and products,
