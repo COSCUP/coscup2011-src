@@ -22,9 +22,9 @@ Possible topics include, but not limited to
 * **Other FLOSS Issues**:  e.g., legal issues, culture conflict between chip designers and software developers in chip design companies
 * **Lightning Talk**: A five-minutes presentation to demonstrate your work or promote an interesting topic. Reservation and on-site application are both accepted.
 
-We plan to have up to 4 parallel tracks with approximates 70 talks. As a reference, last year's program can be found at http://coscup.org/2010/en/program/.
+We plan to have up to 4 parallel tracks with approximates 70 talks. As a reference, last year's program can be found at [here](http://coscup.org/2010/en/program/).
 
-If you are willing to share your knowledge, experience, and/or opinion at COSCUP 2011, please fill in the form at [http://www.example.com http://registrano.com/event/show/coscup-2011?locale=en] before June 17th , 2010.
+If you are willing to share your knowledge, experience, and/or opinion at COSCUP 2011, please fill in the form at [here](http://registrano.com/event/show/coscup-2011?locale=en) before June 17th, 2010.
 
 The program committee will contact you before July 10th 2011 to inform you whether your submission has been accepted or not.
 
