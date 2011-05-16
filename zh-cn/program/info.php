@@ -1,6 +1,6 @@
 <?php
 $contents = array(
-	"index" => "议程",
+	"index" => "议程征求",
 	"testing" => ""
 );
 
