@@ -25,11 +25,11 @@
 	<p class="more"><a href="http://www.flickr.com/groups/coscup2010-selection/pool/">浏览全部»</a></p>
 </div>
 
-## COSCUP 2011 赞助征求中！
+## COSCUP 2011
 
 开放源代码的三大支柱是开发者、使用者与推广者。开发者（大神）是主要的生产者，但同时也是其它程序的使用者。在使用者了解<abbr title="自由与开放源代码软件">FLOSS</abbr> 文化、熟练技能之后，也将成为下一代的开发者或推广者。推广者是扩大使用者数目的重要媒介，也是COSCUP 最所想扮演的角色。 COSCUP 希望借由每一届的年度会议，让世界各地的<abbr title="自由与开放源代码软件">FLOSS</abbr> 爱好者齐聚一堂, 并邀请世界各地的专家上台分享经验，想法与新的技术，来共同的激发国内外的爱好者更加踊跃投入<abbr title="自由与开放源代码软件">FLOSS</abbr> 的开发与使用。
 
-### Call for Proposals 将于 5 月 7 日开始
+## 议程征求中！现在就投稿！
 
 COSCUP 2011 的主题定为「Gadgets beyond Smartphones」。近几年来，市场上以开放源码为基础的gadget
 不管是移动设备还是非移动设备都有越来越多的趋势。以移动设备来说，在智能手机市场上由Google Android
@@ -39,7 +39,7 @@ proprietary RTOS 往 embedded Linux 移动。去年 Google 在 Google I/O 发表
 以后，更增添了大家对Android-based TV 以及其他Linux
 平台的想像空间。在台湾，这几个月的壹电视『网乐通』风潮，以及后来网乐通释出所使用 u-boot 与 Linux 源代码也让大家看到开放源码的威力。
 
-### 赞助 COSCUP
+## 赞助 COSCUP
 
 若贵单位支持 Open Source 理念，或欲为贵单位的品牌、产品等提升知名度，亦或是探寻专业人才，请与 <sponsorship@coscup.org> 联系。
 
