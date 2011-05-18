@@ -10,4 +10,4 @@ $contents = array(
 	"contact" => "联络资讯"
 );
 
-$menu_hidden = array("index", "contact", "sponsors");
+$menu_hidden = array("index", "contact");
