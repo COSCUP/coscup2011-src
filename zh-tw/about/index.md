@@ -15,7 +15,7 @@ COSCUP 研討會已堂堂邁入第六年，六年來不但由各地社群共同�
 此處僅列出各組組長，完整清單請見手冊。
 
 * 總召集人：Pingooo (Taipei Open Source Software User Group, Tossug)
-* 議程主席：Freedom — (long time open source hacker)
+* 議程主席：Freedom (long time open source hacker)
 * 銷售經理：[Ernest Chiang](http://blog.ernestchiang.com/) (Mozilla Taiwan Community, MozTW)
 * 行銷經理：[Bob Chao](http://blog.bobchao.net/) (Mozilla Taiwan Community, MozTW)
 * 公關經理：John Lee
