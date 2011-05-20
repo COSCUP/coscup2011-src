@@ -7,7 +7,8 @@ $contents = array(
 	"venue" => "Venue",
 	"http://blog.coscup.org/" => "Blog",
 	"sponsors" => "Sponsors",
-	"contact" => "Contact Us"
+	"contact" => "Contact Us",
+	"api" => "API"
 );
 
-$menu_hidden = array("index", "contact");
+$menu_hidden = array("index", "contact", "api");

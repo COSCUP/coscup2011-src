@@ -1,10 +1,8 @@
 <?php
 $contents = array(
-	"index" => "API Doc",
+	"index.php" => "API Doc (redirection)",
 	"sponsors" => "Sponsors API",
 	"program" => "Program API",
 	"plurk" => "Plurk API Proxy",
 	"menu" => "Menu API"
 );
-
-$menu_hidden = array("sponsors", "program", "plurk", "menu");
