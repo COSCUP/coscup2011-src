@@ -2,7 +2,7 @@
 
 if ($_GET['callback'])
 {
-	if (!preg_match("/^[0-9a-zA-Z_\-]+$/", $_GET['callback']))
+	if (!preg_match("/[\w\.\[\]\"]+$/", $_GET['callback']))
 	{
 		header('HTTP/1.1 400 Bad Request');
 		die("Malformed callback");
