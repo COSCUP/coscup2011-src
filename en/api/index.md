@@ -14,7 +14,7 @@ Provide HTMLs of navigation menus of the three languages. Intend to be used inte
 
 * URL: `http://coscup.org/2011/api/plurk/`. [Indented view](http://json-indent.appspot.com/indent?url=http://coscup.org/2011/api/plurk/).
 
-Simply a proxy of `http://www.plurk.com/API/PlurkSearch/search?query=COSCUP`. See [Plurk API 1.0 documention](http://www.plurk.com/API#search) for detail. The search term is hard-coded and the refresh rate is limited to 10 min. You should access Plurk directly (with your own API key) if you need real-time data.
+Simply a proxy of `http://www.plurk.com/API/PlurkSearch/search?query=COSCUP`. See [Plurk API 1.0 documentation](http://www.plurk.com/API#search) for detail. The search term is hard-coded and the refresh rate is limited to 10 min. You should access Plurk directly (with your own API key) if you need real-time data.
 
 **Note**: Instead of wrapping the data in JSON-P, `Access-Control-Allow-Origin: *` is added to HTTP header to allow Cross-Origin Resource Sharing. `callback` parameter has no effect on this URL.
 
@@ -46,8 +46,10 @@ This list is not expected to change from time to time.
 
 * URL: `http://coscup.org/2011/api/sponsors/`. [Indented view](http://json-indent.appspot.com/indent?url=http://coscup.org/2011/api/sponsors/).
 
-List of COSCUP 2011 sponsors. The list of each sponsorship level is ordered, when shown as whole, the order **must** be maintained; if only one of the sponsors could be shown, the one to be shown **must** be picked randomly with following weighted factor:
+List of COSCUP 2011 sponsors. The list of each sponsorship level is ordered, when shown as whole, the order **must** be maintained; if only one of the sponsors could be shown, the one to be shown **must** picked randomly with following weighted factor:
 
 > diamond:gold:silver:bronze:media = 10:5:2:1:0
 
 The picking algorithm has been implemented in Javascript for COSCUP 2011 website mobile layout; the source code can be found [here](http://coscup.org/2011-theme/assets/script.js) in `mobileSponsorLogo()`.
+
+Your application should update the list of sponsors at least once a day.
