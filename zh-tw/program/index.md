@@ -51,6 +51,8 @@ COSCUP 與會者很多都是在相關社群中現任的工作者及活躍人士�
 
 2010 年與會人數共約 997 人，於晚上八點開放報名後，於極短暫的時間內爆滿。報名人次約有半數為業界人士、半數為學生。會後填寫問卷的 175 人中，85% 的問卷對於議程給予接近滿分的分數，99% 的問卷願意推薦親友參加 COSCUP。
 
+### 投稿網址: [http://registrano.com/events/coscup-2011](http://registrano.com/events/coscup-2011)
+
 <div class="alignleft" style="height: 360px">
 
 <h4>COSCUP / GNOME.Asia 2010 報名速度</h4>
@@ -82,5 +84,3 @@ COSCUP 與會者很多都是在相關社群中現任的工作者及活躍人士�
 <p><img alt="您是否願意推薦親友參加明年的 COSCUP？" src="recommendation.png" class="aligncenter" /></p>
 
 </div>
-
-### 投稿網址: [http://registrano.com/events/coscup-2011](http://registrano.com/events/coscup-2011)
