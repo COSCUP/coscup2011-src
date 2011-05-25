@@ -1,5 +1,7 @@
 ## Call for Proposals
 
+### Submit Your Proposals Here: [http://registrano.com/event/show/coscup-2011?locale=en](http://registrano.com/event/show/coscup-2011?locale=en)
+
 A lot of attention has been on the smart phone market since the introduction of iPhone in 2007. In this highly competitive market sector, phones based on Google's open source Android operating system are leading in the U.S., U.K., France, Germany and Japan as of March 2011 according to an article by the Guardian.
 Tablets are the new kids on the block with an explosion of tablet devices predicted in 2011 as Engadget states, "It's been raining tablets here in CES 2011." The introduction of the tablet-only Android 3.0 (Honeycomb) has spurred many analysts to predict that the wave of tablets this year will be dominated by Android-based devices.
 The adoption of open source software doesn't stop there. Televisions, set-top boxes, in-car information systems, medical hand-held devices are all being built with open source software such as Google TV and Next TV's popular set-top box in Taiwan. It is clear that the open source paradigm has established a strong foothold in the device space.
@@ -42,7 +44,7 @@ COSCUP is your best choice for finding open source developers, system administra
 
 There were 997 attendees in COSCUP 2010. The seats were fully booked in an hour. According to the registration data, approximately half of attendees were from related industries and half were students. Out of 175 returned post-conference surveys, 85% were satisfied or extremely satisfied with the program, and 99% would recommend COSCUP to their friends.
 
-
+### Submit Your Proposals Here: [http://registrano.com/event/show/coscup-2011?locale=en](http://registrano.com/event/show/coscup-2011?locale=en)
 <div class="alignleft" style="height: 360px">
 
 <h4>COSCUP / GNOME.Asia 2010 Registration</h4>
