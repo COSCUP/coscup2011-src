@@ -1,5 +1,7 @@
 ## 演講徵求書
 
+### 投稿網址: [http://registrano.com/events/coscup-2011](http://registrano.com/events/coscup-2011)
+
 2011 開源人年會現在開始徵求講者，開源人年會 (COSCUP) 是台灣最大的自由軟體與開源軟體研討會。本屆研討會將會在 8 月 20、21 日於台北舉行，本屆大會的主題是「Gadgets beyond Smartphone」。近幾年來，市場上以開放源碼為基礎的 gadget 不管是行動裝置還是非行動裝置都有越來越多的趨勢。以行動裝置來說，在智慧型手機市場上由 Google Android 所引領以開放源碼為基礎的智慧型手機勢不可擋。年初 Honeycomb 發表以後，Android 平台在平板電腦方面亦有長足進步。可以想見未來會有更多應用開放源碼的行動消費電子產品。在非行動裝置方面，以電視和機上盒而言，因應上網需求其實早就從各式各樣 proprietary RTOS 往 embedded Linux 移動。去年 Google 在 Google I/O 發表 Google TV 以後，更增添了大家對 Android-based TV 以及其他 Linux 平台的想像空間。在台灣，這幾個月來的壹電視『網樂通』風潮，以及後來網樂通釋出的 u-boot 與 Linux kernel 原始碼也讓大家看到開放源碼的威力。
 
 ### 重要資訊
@@ -80,3 +82,5 @@ COSCUP 與會者很多都是在相關社群中現任的工作者及活躍人士�
 <p><img alt="您是否願意推薦親友參加明年的 COSCUP？" src="recommendation.png" class="aligncenter" /></p>
 
 </div>
+
+### 投稿網址: [http://registrano.com/events/coscup-2011](http://registrano.com/events/coscup-2011)
