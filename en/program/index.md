@@ -11,7 +11,7 @@ With limited computing power and storage space on devices, an internet connectio
 
 * Submission Deadlines：June 17th, 2011
 * Program Schedule Announcement：July 11th, 2011
-* Conference Date：August  20th-21th, 2010
+* Conference Date：August  20th-21th, 2011
 
 ### Main Topics
 
@@ -26,7 +26,7 @@ Possible topics include, but not limited to
 
 We plan to have up to 4 parallel tracks with approximates 70 talks. As a reference, last year's program can be found at [here](http://coscup.org/2010/en/program/).
 
-If you are willing to share your knowledge, experience, and/or opinion at COSCUP 2011, please fill in the form at [here](http://registrano.com/event/show/coscup-2011?locale=en) before June 17th, 2010.
+If you are willing to share your knowledge, experience, and/or opinion at COSCUP 2011, please fill in the form at [here](http://registrano.com/event/show/coscup-2011?locale=en) before June 17th, 2011.
 
 The program committee will contact you before July 10th 2011 to inform you whether your submission has been accepted or not.
 
