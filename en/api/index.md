@@ -46,7 +46,7 @@ This list is not expected to change from time to time.
 
 * URL: `http://coscup.org/2011/api/sponsors/`. [Indented view](http://json-indent.appspot.com/indent?url=http://coscup.org/2011/api/sponsors/).
 
-List of COSCUP 2011 sponsors. The list of each sponsorship level is ordered, when shown as whole, the order **must** be maintained; if only one of the sponsors could be shown, the one to be shown **must** picked randomly with following weighted factor:
+List of COSCUP 2011 sponsors. You **must** hard-code the order of sponsorship levels. The list of sponsors within each of the sponsorship level is ordered, when shown as whole, the order **must** be maintained; if only one of the sponsors could be shown, the one to be shown **must** picked randomly with following weighted factor:
 
 > diamond:gold:silver:bronze:media = 10:5:2:1:0
 
