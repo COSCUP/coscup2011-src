@@ -5,7 +5,7 @@
 ### Location
 
 * International Conference Hall, Humanities & Social Sciences Building, Academia Sinica, Taipei, Taiwan
-(No.128, Sec. 2, Academia Rd., Nangang Dist., Taipei City 115, Taiwan)
+(<a href="http://maps.google.com/maps?q=%E5%8F%B0%E5%8C%97%E5%B8%82%E5%8D%97%E6%B8%AF%E5%8D%80%E7%A0%94%E7%A9%B6%E9%99%A2%E8%B7%AF%E4%BA%8C%E6%AE%B5128%E8%99%9F">No.128, Sec. 2, Academia Rd., Nangang Dist., Taipei City 115, Taiwan</a>)
 
 ### Transportation
 
