@@ -11,11 +11,9 @@
 	</div>
 	<div id="ipv6block" class="hideInMobile">
 	</div>
-	<div class="hideInMobile">
-		<h2 class="hideInMobile">Social Buzz <small>(Tag: #coscup)</small></h2>
-		<div class="socialbuzz hideInMobile"></div>
-		<p class="more">更多：<a href="https://search.twitter.com/search?q=coscup+OR+from%3Acoscup">Twitter</a>、<a href="http://www.plurk.com/psearch#q=COSCUP">噗浪</a> »</p>
-	</div>
+	<h2 class="hideInMobile">Social Buzz <small>(Tag: #coscup)</small></h2>
+	<div class="socialbuzz hideInMobile"></div>
+	<p class="more hideInMobile">更多：<a href="https://search.twitter.com/search?q=coscup+OR+from%3Acoscup">Twitter</a>、<a href="http://www.plurk.com/psearch#q=COSCUP">噗浪</a> »</p>
 	<div class="hideInMobile">
 		<h2>COSCUP 2010 演講錄影</h2>
 		<object width="288" height="246" class="video">
