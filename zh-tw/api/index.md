@@ -46,7 +46,7 @@ COSCUP 2011 會場各會議廳的名字，被議程的 `room` 參數引用。`id
 
 * URL: `http://coscup.org/2011/api/sponsors/`。[縮排顯示](http://json-indent.appspot.com/indent?url=http://coscup.org/2011/api/sponsors/)。
 
-COSCUP 2011 的贊助商資訊。程式*應*內建各贊助等級的順序，各等級內的贊助單位順序在列初時*應*保存；在只能顯示一個贊助單位的場合，要顯示哪個贊助單位的機制必須使用加權隨機的方式挑選，加權比率如下：
+COSCUP 2011 的贊助商資訊。程式**應**內建各贊助等級的順序，各等級內的贊助單位順序在列出時**應**保存；在只能顯示一個贊助單位的場合，要顯示哪個贊助單位的機制必須使用加權隨機的方式挑選，加權比率如下：
 
 > diamond:gold:silver:bronze:media = 10:5:2:1:0
 
