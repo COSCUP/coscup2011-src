@@ -1,29 +1,40 @@
-<div id="sidebar2" class="hideInMobile">
-	<div class="intro">
+<div id="sidebar2">
+	<div class="intro hideInMobile">
 		<p>COSCUP 是由社群組織、台灣最大的開放原始碼軟體研討會。</p>
 		<p class="more"><a href="about/">了解更多 »</a></p>
 	</div>
-	<h2>Facebook 粉絲團</h2>
-	<iframe src="https://www.facebook.com/plugins/likebox.php?href=https%3A%2F%2Fwww.facebook.com%2Fcoscup&amp;width=288&amp;colorscheme=light&amp;show_faces=false&amp;stream=false&amp;header=true&amp;height=62" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:288px; height:62px; background-color: #fff"></iframe>
-	<div id="ipv6block"></div>
-	<h2>Social Buzz <small>(Tag: #coscup)</small></h2>
-	<div class="socialbuzz"></div>
-	<p class="more">更多：<a href="https://search.twitter.com/search?q=coscup+OR+from%3Acoscup">Twitter</a>、<a href="http://www.plurk.com/psearch#q=COSCUP">噗浪</a> »</p>
-	<h2>COSCUP 2010 演講錄影</h2>
-    <object width="288" height="246" class="video">
-      <param name="movie" value="http://www.youtube.com/p/74F06EB83BBBC445?hl=zh_TW&amp;fs=1"/>
-      <param name="allowFullScreen" value="true"/>
-      <param name="allowscriptaccess" value="always"/>
-      <embed src="http://www.youtube.com/p/74F06EB83BBBC445?hl=zh_TW&amp;fs=1" type="application/x-shockwave-flash" width="288" height="246" allowscriptaccess="always" allowfullscreen="true"></embed>
-    </object>
-    <p class="more">瀏覽：
-        <a href="http://www.youtube.com/view_play_list?p=6B44377354D83D41">首日</a>、
-        <a href="http://www.youtube.com/view_play_list?p=31632A9DC6140024">次日</a>、 
-        <a href="http://www.youtube.com/view_play_list?p=C56D2E96312D2A53">閃電秀</a> »
-    </p>
-	<h2>COSCUP 2010 精選照片集</h2>
-	<div class="images"></div>
-	<p class="more"><a href="http://www.flickr.com/groups/coscup2010-selection/pool/">瀏覽全部 »</a></p>
+	<h2 class="hideInMobile">Mobile App 比賽</h2>
+	<p class="banner"><a target="_blank" href="http://blog.coscup.org/2011/06/coscup-2011-mobile-device-app.html"><img src="/2011/logos/mobile-app-banner.gif" style="width: 288px; height: 62px" title="COSCUP 2011 Mobile Device App 比賽" /></a></p>
+	<div class="hideInMobile">
+		<h2>Facebook 粉絲團</h2>
+		<iframe src="https://www.facebook.com/plugins/likebox.php?href=https%3A%2F%2Fwww.facebook.com%2Fcoscup&amp;width=288&amp;colorscheme=light&amp;show_faces=false&amp;stream=false&amp;header=true&amp;height=62" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:288px; height:62px; background-color: #fff"></iframe>
+	</div>
+	<div id="ipv6block" class="hideInMobile">
+	</div>
+	<div class="hideInMobile">
+		<h2 class="hideInMobile">Social Buzz <small>(Tag: #coscup)</small></h2>
+		<div class="socialbuzz hideInMobile"></div>
+		<p class="more">更多：<a href="https://search.twitter.com/search?q=coscup+OR+from%3Acoscup">Twitter</a>、<a href="http://www.plurk.com/psearch#q=COSCUP">噗浪</a> »</p>
+	</div>
+	<div class="hideInMobile">
+		<h2>COSCUP 2010 演講錄影</h2>
+		<object width="288" height="246" class="video">
+		  <param name="movie" value="http://www.youtube.com/p/74F06EB83BBBC445?hl=zh_TW&amp;fs=1"/>
+		  <param name="allowFullScreen" value="true"/>
+		  <param name="allowscriptaccess" value="always"/>
+		  <embed src="http://www.youtube.com/p/74F06EB83BBBC445?hl=zh_TW&amp;fs=1" type="application/x-shockwave-flash" width="288" height="246" allowscriptaccess="always" allowfullscreen="true"></embed>
+		</object>
+		<p class="more">瀏覽：
+			<a href="http://www.youtube.com/view_play_list?p=6B44377354D83D41">首日</a>、
+			<a href="http://www.youtube.com/view_play_list?p=31632A9DC6140024">次日</a>、 
+			<a href="http://www.youtube.com/view_play_list?p=C56D2E96312D2A53">閃電秀</a> »
+		</p>
+	</div>
+	<div class="hideInMobile">
+		<h2>COSCUP 2010 精選照片集</h2>
+		<div class="images"></div>
+		<p class="more"><a href="http://www.flickr.com/groups/coscup2010-selection/pool/">瀏覽全部 »</a></p>
+	</div>
 </div>
 
 ## COSCUP 2011
