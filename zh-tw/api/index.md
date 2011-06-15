@@ -38,7 +38,7 @@ COSCUP 2011 的主題列表，被議程的 `type` 參數引用。注意 `id = 0`
 
 * URL: `http://coscup.org/2011/api/program/rooms/`。[縮排顯示](http://json-indent.appspot.com/indent?url=http://coscup.org/2011/api/program/rooms/)。
 
-COSCUP 2011 會場各會議廳的名字，被議程的 `room` 參數引用。`id = 0` 代表 Keynote 與連播議程。
+COSCUP 2011 會場各會議廳的名字，被議程的 `room` 參數引用。`id = 0` 代表 Keynote 與聯播議程。
 
 這個資訊應該不會隨時間改變。
 
