@@ -2,6 +2,7 @@
 
 * 赞助相关事宜：<sponsorship@coscup.org>
 * 议程相关事宜：<program@coscup.org>
+* 宣传活动相关事宜：<marketing@coscup.org>
 
 <h2 id="subscribe">订阅电子报</h2>
 

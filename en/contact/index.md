@@ -2,6 +2,7 @@
 
 * Sponsorships: <sponsorship@coscup.org>
 * Programs: <program@coscup.org>
+* Event marketing and promotion: <marketing@coscup.org>
 
 <h2 id="subscribe">News Subscription</h2>
 
