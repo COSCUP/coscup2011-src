@@ -4,7 +4,7 @@
 		<p class="more"><a href="about/">了解更多 »</a></p>
 	</div>
 	<h2 class="hideInMobile">Mobile App 比賽</h2>
-	<p class="banner"><a target="_blank" href="http://blog.coscup.org/2011/06/coscup-2011-mobile-device-app.html"><img src="/2011/logos/mobile-app-banner.gif" style="width: 288px; height: 62px" title="COSCUP 2011 Mobile Device App 比賽" /></a></p>
+	<p class="banner"><a target="_blank" href="http://blog.coscup.org/2011/06/coscup-2011-mobile-device-app.html"><img src="/2011/logos/mobile-app-banner.png" style="width: 288px; height: 62px" title="COSCUP 2011 Mobile Device App 比賽" /></a></p>
 	<div class="hideInMobile">
 		<h2>Facebook 粉絲團</h2>
 		<iframe src="https://www.facebook.com/plugins/likebox.php?href=https%3A%2F%2Fwww.facebook.com%2Fcoscup&amp;width=288&amp;colorscheme=light&amp;show_faces=false&amp;stream=false&amp;header=true&amp;height=62" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:288px; height:62px; background-color: #fff"></iframe>
