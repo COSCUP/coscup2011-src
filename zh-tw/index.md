@@ -28,11 +28,9 @@
 			<a href="http://www.youtube.com/view_play_list?p=C56D2E96312D2A53">閃電秀</a> »
 		</p>
 	</div>
-	<div class="hideInMobile">
-		<h2>COSCUP 2010 精選照片集</h2>
-		<div class="images"></div>
-		<p class="more"><a href="http://www.flickr.com/groups/coscup2010-selection/pool/">瀏覽全部 »</a></p>
-	</div>
+	<h2 class="hideInMobile">COSCUP 2010 精選照片集</h2>
+	<div class="images hideInMobile"></div>
+	<p class="more hideInMobile"><a href="http://www.flickr.com/groups/coscup2010-selection/pool/">瀏覽全部 »</a></p>
 </div>
 
 ## COSCUP 2011
