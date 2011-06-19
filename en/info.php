@@ -3,7 +3,7 @@ $contents = array(
 	"index" => "Home",
 //	"http://register.coscup.org/" => "Register",
 	"about" => "About Us",
-	"program" => "CfP",
+	"program" => "Program",
 	"venue" => "Venue",
 	"http://blog.coscup.org/" => "Blog",
 	"sponsors" => "Sponsors",
@@ -11,4 +11,4 @@ $contents = array(
 	"api" => "API"
 );
 
-$menu_hidden = array("index", "contact", "api");
+$menu_hidden = array("index", "contact", "program", "api");
