@@ -1,6 +1,6 @@
 <?php
 
-if ($_GET['callback'])
+if (isset($_GET['callback']))
 {
 	if (!preg_match("/[\w\.\[\]\"]+$/", $_GET['callback']))
 	{
@@ -8,13 +8,15 @@ if ($_GET['callback'])
 		die("Malformed callback");
 	}
 	header("Content-type: text/javascript; charset=utf-8");
+	header('Access-Control-Allow-Origin: *');
 	echo $_GET['callback'] . '(';
-	include ("rooms.json.js");
+	readfile ("rooms.json.js");
 	echo ')';
 }
 else
 {
 	header("Content-type: text/javascript; charset=utf-8");
-	include ("rooms.json.js");
+	header('Access-Control-Allow-Origin: *');
+	readfile ("rooms.json.js");
 }
 
