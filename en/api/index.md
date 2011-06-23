@@ -1,6 +1,6 @@
 ## API Documentation
 
-COSCUP 2011 website provide following **read-only** JSON-P APIs for your application to access. Since they are provided in JSON-P, they are useful in client-side web applications too &mdash; just add the `callback` parameter.
+COSCUP 2011 website provide following **read-only** JSON-P APIs for your application to access. Since they are provided in JSON-P, they are useful in client-side web applications too &mdash; just add the `callback` parameter. You many also utilize Cross-Origin Resource Sharing if the browser targeted supports it. `Access-Control-Allow-Origin: *` is added to HTTP header to all URLs.
 
 You may contact <timdream@gmail.com> if there is any questions regarding APIs.
 
@@ -15,8 +15,6 @@ Provide HTMLs of navigation menus of the three languages. Intend to be used inte
 * URL: `http://coscup.org/2011/api/plurk/`. [Indented view](http://json-indent.appspot.com/indent?url=http://coscup.org/2011/api/plurk/).
 
 Simply a proxy of `http://www.plurk.com/API/PlurkSearch/search?query=COSCUP`. See [Plurk API 1.0 documentation](http://www.plurk.com/API#search) for detail. The search term is hard-coded and the refresh rate is limited to 10 min. You should access Plurk directly (with your own API key) if you need real-time data.
-
-**Note**: Instead of wrapping the data in JSON-P, `Access-Control-Allow-Origin: *` is added to HTTP header to allow Cross-Origin Resource Sharing. `callback` parameter has no effect on this URL.
 
 ### Program (`program`)
 

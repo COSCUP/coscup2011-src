@@ -1,6 +1,6 @@
 ## API 文件
 
-COSCUP 2011 網站提供下列**唯讀**JSON-P API 供第三方程式取用。因為具有 JSON-P 的能力，您可以用在 client 端網路應用程式；在引用時加上 `callback` 參數即可。
+COSCUP 2011 網站提供下列**唯讀**JSON-P API 供第三方程式取用。因為具有 JSON-P 的能力，您可以用在 client 端網路應用程式；在引用時加上 `callback` 參數即可。若目標瀏覽器支援跨來源資源共享 (Cross-Origin Resource Sharing)，您也可以不使用 `callback` 參數；各 URL 皆會輸出 `Access-Control-Allow-Origin: *` HTTP 標頭。
 
 有任何關於 API 的建議與問題請洽 <timdream@gmail.com> 。
 
@@ -15,8 +15,6 @@ COSCUP 2011 網站提供下列**唯讀**JSON-P API 供第三方程式取用。�
 * URL: `http://coscup.org/2011/api/plurk/`。[縮排顯示](http://json-indent.appspot.com/indent?url=http://coscup.org/2011/api/plurk/)。
 
 只是個 `http://www.plurk.com/API/PlurkSearch/search?query=COSCUP` 的 Proxy。資料結構請參考 [Plurk API 1.0 文件](http://www.plurk.com/API#search)。搜尋詞彙是寫死的，且更新速率限制在 10 分鐘以上。如果需要即時的資訊請自己申請 API key 直接存取噗浪。
-
-**註**: 這個 URL 不支援 JSON-P，改用在 HTTP 標頭加上 `Access-Control-Allow-Origin: *` 的方式來實作跨來源資源共享 (Cross-Origin Resource Sharing)。 `callback` 參數在這個 URL 沒有作用。
 
 ### 議程 (`program`)
 
