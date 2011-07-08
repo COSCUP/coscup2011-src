@@ -62,5 +62,5 @@ proprietary RTOS 往 embedded Linux 移動。去年 Google 在 Google I/O 發表
 
 * 議程徵求：5 月 7 日
 * 議程公布：7 月 11 日
-* 報名：7 月中
+* 大眾報名：7 月 15 日
 * 大會時間：8 月 20 - 21 日

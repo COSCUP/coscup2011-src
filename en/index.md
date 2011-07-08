@@ -56,5 +56,5 @@ or searching for talents, please contact <sponsorship@coscup.org>.
 
 * Call for papers: May 7th
 * Program announced: July 11th
-* Registration opens: mid-July
+* Registration opens: July 15th
 * Conference dates: August 20th - 21st
