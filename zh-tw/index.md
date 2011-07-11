@@ -44,7 +44,7 @@
 COSCUP 的首次應用程式競賽，大家一起來狂飆創意吧！使用不同手機平台或是行動版網頁，將 COSCUP 提供的資訊即時呈現在行動裝置上。詳情請見[活動辦法](http://blog.coscup.org/2011/06/coscup-2011-mobile-device-app.html)。
 
 
-## 議程將於 7 月 11 日公布
+## COSCUP 2011 議程已公佈！
 
 COSCUP 2011 的主題定為「Gadgets beyond Smartphones」。近幾年來，市場上以開放源碼為基礎的 gadget
 不管是行動裝置還是非行動裝置都有越來越多的趨勢。以行動裝置來說，在智慧型手機市場上由 Google Android

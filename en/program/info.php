@@ -1,7 +1,7 @@
 <?php
 $contents = array(
-	"index" => "Call for Proposals",
-	"testing" => ""
+	"index" => "Program",
+	"abstract" => "Abstract"
 );
 
-$menu_hidden = array("index", "testing");
+$menu_hidden = array("index", "abstract");

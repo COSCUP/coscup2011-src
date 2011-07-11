@@ -1,7 +1,7 @@
 <?php
 $contents = array(
 	"index" => "首頁",
-//	"http://register.coscup.org/" => "報名",
+	"http://registrano.com/events/coscup2011-regist" => "報名",
 	"about" => "活動簡介",
 	"program" => "議程",
 	"venue" => "地點",
@@ -11,4 +11,4 @@ $contents = array(
 	"api" => "API"
 );
 
-$menu_hidden = array("index", "contact", "program", "api");
+$menu_hidden = array("index", "contact", "api");

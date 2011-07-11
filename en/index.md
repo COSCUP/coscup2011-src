@@ -32,7 +32,7 @@
 
 COSCUP is the largest annual <abbr title="Free/Libre/Open Source Software">FLOSS</abbr> conference organized by local communities in Taiwan. The conference has sessions for new users, enthusiastic promoters, coders or anyone who is interested in cutting-edge <abbr title="Free/Libre/Open Source Software">FLOSS</abbr> technologies. The goal is to create a friendly and informative environment for people from different communities to make friends, learn new technologies and inspire each other.
 
-## Program will be announced on July 11th
+## COSCUP 2011 Program announced!
 
 The main theme of COSCUP 2011 is “Gadgets beyond Smartphones”. Phones
 based on Google's open source Android operating system are leading the market in the

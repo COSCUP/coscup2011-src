@@ -1,7 +1,7 @@
 <?php
 $contents = array(
 	"index" => "首页",
-//	"http://register.coscup.org/" => "报名",
+	"http://registrano.com/events/coscup2011-regist" => "报名",
 	"about" => "活动",
 	"program" => "议程",
 	"venue" => "地点",
@@ -10,4 +10,4 @@ $contents = array(
 	"contact" => "联络资讯"
 );
 
-$menu_hidden = array("index", "contact", "program");
+$menu_hidden = array("index", "contact");
