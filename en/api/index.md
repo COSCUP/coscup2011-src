@@ -22,7 +22,7 @@ Simply a proxy of `http://www.plurk.com/API/PlurkSearch/search?query=COSCUP`. Se
 
 A ~50KB JSON object that represents all the talks that will be given at COSCUP 2011. Your application **should** cache the result when possible (Web app may utilize `localStorage`; see [introduction](http://diveintohtml5.org/storage.html)). The talk array *may* ordered by time but not necessary &mdash; your application **must** be able to accept and process an unsorted list. Also, the placement of a talk on the list could vary as programs being updated &mdash; your application **must not** rely on the placement to identify the session.
 
-**Important**: Program API is currently being filled with programs from [COSCUP 2010](http://coscup.org/2010/) for testing purpose. They will be removed days before the announcement of 2011 program.
+**Important**: Language and topic types are optional information.
 
 ### Program topics and types (`program/types`)
 
