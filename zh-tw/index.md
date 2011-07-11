@@ -3,7 +3,7 @@
 		<p>COSCUP 是由社群組織、台灣最大的開放原始碼軟體研討會。</p>
 		<p class="more"><a href="about/">了解更多 »</a></p>
 	</div>
-	<h2 class="hideInMobile">7 月 15 日晚上 8 點開放報名</h2>
+	<h2 class="hideInMobile">7 月 15 日晚上 8 點開放免費報名</h2>
 	<p id="countdown" class="hideInMobile">距離報名時間，還有<span id="countdown-time"></span></p>
 	<h2 class="hideInMobile">Mobile App 比賽</h2>
 	<p class="banner"><a target="_blank" href="http://blog.coscup.org/2011/06/coscup-2011-mobile-device-app.html"><img src="/2011/logos/mobile-app-banner.png" style="width: 288px; height: 62px" title="COSCUP 2011 Mobile Device App 比賽" /></a></p>
