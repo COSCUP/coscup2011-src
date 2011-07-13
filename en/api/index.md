@@ -22,7 +22,7 @@ Simply a proxy of `http://www.plurk.com/API/PlurkSearch/search?query=COSCUP`. Se
 
 A ~50KB JSON object that represents all the talks that will be given at COSCUP 2011. Your application **should** cache the result when possible (Web app may utilize `localStorage`; see [introduction](http://diveintohtml5.org/storage.html)). The talk array *may* ordered by time but not necessary &mdash; your application **must** be able to accept and process an unsorted list. Also, the placement of a talk on the list could vary as programs being updated &mdash; your application **must not** rely on the placement to identify the session.
 
-Program time is represented in UNIX timestamp (seconds since 0:00 UT Jan 1st, 1970). Breaks can be determined by the following expression: `type === 0 && room === 0 && speaker === ''`.
+Program time is represented in UNIX timestamp (seconds since 0:00 UT Jan 1st, 1970). Breaks can be determined the property `isBreak`.
 
 **Important**: Language and topic types are optional information.
 
