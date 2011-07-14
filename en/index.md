@@ -46,6 +46,10 @@ TV and Next TV's popular set-top box in Taiwan are just 2 such examples. It is
 clear that the open source paradigm has established a strong foothold in the
 device space.
 
+## COSCUP Channel on YouTube!
+
+Get the latest information about COSCUP, or understand further information about open source softwares and communities. Visit [COSCUP Channel on YouTube](http://www.youtube.com/user/coscup2011) now!
+
 ## Sponsor COSCUP
 
 If your organization identify with the Open Source philosophy,
