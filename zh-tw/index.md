@@ -54,6 +54,9 @@ proprietary RTOS 往 embedded Linux 移動。去年 Google 在 Google I/O 發表
 以後，更增添了大家對 Android-based TV 以及其他 Linux
 平台的想像空間。在台灣，這幾個月的壹電視『網樂通』風潮，以及後來網樂通釋出所使用 u-boot 與 Linux 原始碼也讓大家看到開放源碼的威力。
 
+## COSCUP Channel on YouTube !
+想取得最新 COSCUP 籌辦資訊、或者更深入了解什麼是自由軟體與社群嗎？ 快上 [COSCUP Channel on YouTube](http://www.youtube.com/user/coscup2011) 一窺究竟！
+
 ## 贊助 COSCUP
 
 若貴單位支持 Open Source 理念，或欲為貴單位的品牌、產品等提昇知名度，亦或是探尋專業人才，請與 <sponsorship@coscup.org> 聯絡。
