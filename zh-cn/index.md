@@ -43,7 +43,7 @@ proprietary RTOS 往 embedded Linux 移动。去年 Google 在 Google I/O 发表
 平台的想像空间。在台湾，这几个月的壹电视『网乐通』风潮，以及后来网乐通释出所使用 u-boot 与 Linux 源代码也让大家看到开放源码的威力。
 
 ## COSCUP Channel on YouTube！
-想取得最新的COSCUP筹办信息，或者更深入了解什么是自由软件与社群吗？快上[COSCUP Channel on YouTube]（http://www.youtube.com/user/coscup2011）一窥究竟！
+想取得最新的COSCUP筹办信息，或者更深入了解什么是自由软件与社群吗？快上[COSCUP Channel on YouTube](http://www.youtube.com/user/coscup2011)一窥究竟！
 
 ## 赞助 COSCUP
 
