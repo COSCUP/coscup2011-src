@@ -1,6 +1,6 @@
 ## API 文件
 
-COSCUP 2011 網站提供下列**唯讀**JSON-P API 供第三方程式取用。因為具有 JSON-P 的能力，您可以用在 client 端網路應用程式；在引用時加上 `callback` 參數即可。若目標瀏覽器支援跨來源資源共享 (Cross-Origin Resource Sharing)，您也可以不使用 `callback` 參數；各 URL 皆會輸出 `Access-Control-Allow-Origin: *` HTTP 標頭。
+COSCUP 2011 網站提供下列**唯讀** JSON-P API 供第三方程式取用。因為具有 JSON-P 的能力，您可以用在 client 端網路應用程式；在引用時加上 `callback` 參數即可。若目標瀏覽器支援跨來源資源共享 (Cross-Origin Resource Sharing)，您也可以不使用 `callback` 參數；各 URL 皆會輸出 `Access-Control-Allow-Origin: *` HTTP 標頭。
 
 有任何關於 API 的建議與問題請洽 <timdream@gmail.com> 。
 
