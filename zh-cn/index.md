@@ -4,7 +4,7 @@
 		<p class="more"><a href="about/">了解更多»</a></p>
 	</div>
 	<h2>7 月 15 日晚上 8 点开放免费报名</h2>
-	<p id="countdown">距离报名时间，还有<span id="countdown-time"></span></p>
+	<p id="thank-you">报名额满、谢谢支持！</p>
 	<h2>Facebook 粉丝页面</h2>
 	<iframe src="https://www.facebook.com/plugins/likebox.php?href=https%3A%2F%2Fwww.facebook.com%2Fcoscup&amp;width=288&amp;colorscheme=light&amp;show_faces=false&amp;stream =false&amp;header=true&amp;height=62" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:288px; height:62px; background-color: #fff"></iframe>
 	<div id="ipv6block"></div>
