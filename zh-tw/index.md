@@ -58,10 +58,6 @@ proprietary RTOS 往 embedded Linux 移動。去年 Google 在 Google I/O 發表
 
 想取得最新 COSCUP 籌辦資訊、或者更深入了解什麼是自由軟體與社群嗎？ 快上 [COSCUP Channel on YouTube](http://www.youtube.com/user/coscup2011) 一窺究竟！
 
-## 贊助 COSCUP
-
-若貴單位支持 Open Source 理念，或欲為貴單位的品牌、產品等提昇知名度，亦或是探尋專業人才，請與 <sponsorship@coscup.org> 聯絡。
-
 ### 重要日期
 
 * 議程徵求：5 月 7 日
