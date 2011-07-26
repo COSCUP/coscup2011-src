@@ -14,7 +14,7 @@ For complete team member listing, please check out the booklet.
 * Program Committee Leader: Freedom – (long time open source hacker)
 * Sponsorship: [Ernest Chiang](http://blog.ernestchiang.com/) (Mozilla Taiwan Community, MozTW)
 * Marketing: [Bob Chao](http://blog.bobchao.net/) (Mozilla Taiwan Community, MozTW)
-* Public Relations: John Lee
+* Public Relations: Laetitia Hsu (WoFOSS)
 * Web Services: [timdream](http://timc.idv.tw/) (Mozilla Taiwan Community, MozTW)
 * Attendee Relations: choupi (Taipei Open Source Software User Group, Tossug)
 * Event Staff Lead: threesecond

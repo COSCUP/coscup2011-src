@@ -18,7 +18,7 @@ COSCUP 研討會已堂堂邁入第六年，六年來不但由各地社群共同�
 * 議程主席：Freedom (long time open source hacker)
 * 銷售經理：[Ernest Chiang](http://blog.ernestchiang.com/) (Mozilla Taiwan Community, MozTW)
 * 行銷經理：[Bob Chao](http://blog.bobchao.net/) (Mozilla Taiwan Community, MozTW)
-* 公關經理：John Lee
+* 公關經理：Laetitia Hsu (WoFOSS)
 * 網站長：[timdream](http://timc.idv.tw/) (Mozilla Taiwan Community, MozTW)
 * 會眾長：choupi (Taipei Open Source Software User Group, Tossug)
 * 場務長：threesecond
