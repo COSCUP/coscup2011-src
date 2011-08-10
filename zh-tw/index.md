@@ -5,8 +5,6 @@
 	</div>
 	<h2 class="hideInMobile">7 月 15 日晚上 8 點開放免費報名</h2>
 	<p id="thank-you" class="hideInMobile"><a href="http://blog.coscup.org/2011/07/coscup_16.html">報名額滿、謝謝支持！</a></p>
-	<h2 class="hideInMobile">Mobile App 比賽網路投票</h2>
-	<p class="banner"><a target="_blank" href="http://blog.coscup.org/2011/07/coscup-2011-mobile-device-app.html"><img src="/2011/logos/mobile-app-banner-vote.png" style="width: 288px; height: 62px" title="COSCUP 2011 Mobile App 比賽網路投票" /></a></p>
 	<div class="hideInMobile">
 		<h2>Facebook 粉絲團</h2>
 		<iframe src="https://www.facebook.com/plugins/likebox.php?href=https%3A%2F%2Fwww.facebook.com%2Fcoscup&amp;width=288&amp;colorscheme=light&amp;show_faces=false&amp;stream=false&amp;header=true&amp;height=62" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:288px; height:62px; background-color: #fff"></iframe>
