@@ -11,6 +11,11 @@
 <p><label>E-mail: <input type="email" name="email" size="30" placeholder="E-mail" required /></label> <input type="submit" value="Subscribe" /></p>
 </form>
 
+## Official Chat
+
+COSCUP IRC Chat is located on Freenode. You may use your favorite IRC software connect to [chat.freenode.net#coscup](ircs://chat.freenode.net/coscup). You may also use the [web chat interface](https://webchat.freenode.net/?channels=coscup) provided by Freenode.
+
+
 ## API
 
 Various information, such as program schedule and list of sponsors, is offered to third-party program via API. For more information, please read the [documentation](http://coscup.org/2011/en/api/).
