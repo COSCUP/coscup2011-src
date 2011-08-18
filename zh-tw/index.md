@@ -1,20 +1,20 @@
-<div id="sidebar2">
-	<div class="intro hideInMobile">
+<div id="sidebar2" class="hideInMobile">
+	<div class="intro">
 		<p>COSCUP 是由社群組織、台灣最大的開放原始碼軟體研討會。</p>
 		<p class="more"><a href="about/">了解更多 »</a></p>
 	</div>
-	<h2 class="hideInMobile">7 月 15 日晚上 8 點開放免費報名</h2>
-	<p id="thank-you" class="hideInMobile"><a href="http://blog.coscup.org/2011/07/coscup_16.html">報名額滿、謝謝支持！</a></p>
-	<div class="hideInMobile">
+	<h2>7 月 15 日晚上 8 點開放免費報名</h2>
+	<p id="thank-you" ><a href="http://blog.coscup.org/2011/07/coscup_16.html">報名額滿、謝謝支持！</a></p>
+	<div>
 		<h2>Facebook 粉絲團</h2>
 		<iframe src="https://www.facebook.com/plugins/likebox.php?href=https%3A%2F%2Fwww.facebook.com%2Fcoscup&amp;width=288&amp;colorscheme=light&amp;show_faces=false&amp;stream=false&amp;header=true&amp;height=62" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:288px; height:62px; background-color: #fff"></iframe>
 	</div>
-	<div id="ipv6block" class="hideInMobile">
+	<div id="ipv6block">
 	</div>
-	<h2 class="hideInMobile">Social Buzz <small>(Tag: #coscup)</small></h2>
-	<div class="socialbuzz hideInMobile"></div>
-	<p class="more hideInMobile">更多：<a href="https://search.twitter.com/search?q=coscup+OR+from%3Acoscup">Twitter</a>、<a href="http://www.plurk.com/psearch#q=COSCUP">噗浪</a> »</p>
-	<div class="hideInMobile">
+	<h2>Social Buzz <small>(Tag: #coscup)</small></h2>
+	<div class="socialbuzz"></div>
+	<p class="more">更多：<a href="https://search.twitter.com/search?q=coscup+OR+from%3Acoscup">Twitter</a>、<a href="http://www.plurk.com/psearch#q=COSCUP">噗浪</a> »</p>
+	<div>
 		<h2>COSCUP 2010 演講錄影</h2>
 		<iframe class="video" title="YouTube video player" width="288" height="246" style="width: 288px; height: 246px" src="http://www.youtube.com/embed/oglvhUuDEQQ?playlist=_xpucqO1VwA,wKpdP066z3c" frameborder="0"  allowfullscreen="allowfullscreen"></iframe>
 		<p class="more">瀏覽：
@@ -23,9 +23,9 @@
 			<a href="http://www.youtube.com/view_play_list?p=C56D2E96312D2A53">閃電秀</a> »
 		</p>
 	</div>
-	<h2 class="hideInMobile">COSCUP 2010 精選照片集</h2>
-	<div class="images hideInMobile"></div>
-	<p class="more hideInMobile"><a href="http://www.flickr.com/groups/coscup2010-selection/pool/">瀏覽全部 »</a></p>
+	<h2>COSCUP 2010 精選照片集</h2>
+	<div></div>
+	<p class="more"><a href="http://www.flickr.com/groups/coscup2010-selection/pool/">瀏覽全部 »</a></p>
 </div>
 
 ## COSCUP 2011
