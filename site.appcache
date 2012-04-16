@@ -9,7 +9,7 @@ CACHE:
 # remote assets
 http://ajax.googleapis.com/ajax/libs/jquery/1.5/jquery.min.js
 
-＃ assets
+# assets
 /2012-theme/assets/closebox.png
 /2012-theme/assets/coscup-140x48.png
 /2012-theme/assets/coscup-icon-ipad.png
