@@ -3,8 +3,8 @@
 		<p>COSCUP is the largest open source conference in Taiwan, organized by the community.</p>
 		<p class="more"><a href="about/">Learn more »</a></p>
 	</div>
-	<h2>Free Admission, registration opens 8pm, July 15th</h2>
-	<p id="thank-you">Full! Thank you for support.</p>
+	<h2 class="hideInMobile">Registration starts at 8pm, July 16th</h2>
+	<p id="countdown" class="hideInMobile"><span id="countdown-time"></span> until registration opens.</p>
 	<h2>Facebook Page</h2>
 	<iframe src="https://www.facebook.com/plugins/likebox.php?href=https%3A%2F%2Fwww.facebook.com%2Fcoscup&amp;width=288&amp;colorscheme=light&amp;show_faces=false&amp;stream=false&amp;header=true&amp;height=62" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:288px; height:62px; background-color: #fff"></iframe>
 	<div id="ipv6block"></div>

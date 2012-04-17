@@ -3,8 +3,8 @@
 		<p>COSCUP 是由社群組織、台灣最大的開放原始碼軟體研討會。</p>
 		<p class="more"><a href="about/">了解更多 »</a></p>
 	</div>
-	<h2>7 月 15 日晚上 8 點開放免費報名</h2>
-	<p id="thank-you" ><a href="http://blog.coscup.org/2011/07/coscup_16.html">報名額滿、謝謝支持！</a></p>
+	<h2 class="hideInMobile">7 月 16 日晚上 8 點開放報名</h2>
+	<p id="countdown" class="hideInMobile">距離報名時間，還有<span id="countdown-time"></span></p>
 	<div>
 		<h2>Facebook 粉絲團</h2>
 		<iframe src="https://www.facebook.com/plugins/likebox.php?href=https%3A%2F%2Fwww.facebook.com%2Fcoscup&amp;width=288&amp;colorscheme=light&amp;show_faces=false&amp;stream=false&amp;header=true&amp;height=62" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:288px; height:62px; background-color: #fff"></iframe>
