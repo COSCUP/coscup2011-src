@@ -1,26 +1,26 @@
 <div id="sidebar2" class="hideInMobile">
-	<div class="intro">
-		<p>COSCUP is the largest open source conference in Taiwan, organized by the community.</p>
-		<p class="more"><a href="about/">Learn more »</a></p>
-	</div>
-	<h2 class="hideInMobile">Registration starts at 8pm, July 16th</h2>
-	<p id="countdown" class="hideInMobile"><span id="countdown-time"></span> until registration opens.</p>
-	<h2>Facebook Page</h2>
-	<iframe src="https://www.facebook.com/plugins/likebox.php?href=https%3A%2F%2Fwww.facebook.com%2Fcoscup&amp;width=288&amp;colorscheme=light&amp;show_faces=false&amp;stream=false&amp;header=true&amp;height=62" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:288px; height:62px; background-color: #fff"></iframe>
-	<div id="ipv6block"></div>
-	<h2>Social Buzz <small>(Tag: #coscup)</small></h2>
-	<div class="socialbuzz"></div>
-	<p class="more">More: <a href="https://search.twitter.com/search?q=coscup+OR+from%3Acoscup">Twitter</a>, <a href="http://www.plurk.com/psearch#q=COSCUP">Plurk</a> »</p>
-	<h2>COSCUP 2010 Videos</h2>
-	<iframe class="video" title="YouTube video player" width="288" height="246" style="width: 288px; height: 246px" src="http://www.youtube.com/embed/oglvhUuDEQQ?playlist=_xpucqO1VwA,wKpdP066z3c" frameborder="0"  allowfullscreen="allowfullscreen"></iframe>
-    <p class="more">More: 
-        <a href="http://www.youtube.com/view_play_list?p=6B44377354D83D41">Day 1</a>, 
-        <a href="http://www.youtube.com/view_play_list?p=31632A9DC6140024">Day 2</a>, 
+  <div class="intro">
+    <p>COSCUP is the largest open source conference in Taiwan, organized by the community.</p>
+    <p class="more"><a href="about/">Learn more »</a></p>
+  </div>
+  <h2 class="hideInMobile">Registration starts at 8pm, July 16th</h2>
+  <p id="countdown" class="hideInMobile"><span id="countdown-time"></span> until registration opens.</p>
+  <h2>Facebook Page</h2>
+  <iframe src="https://www.facebook.com/plugins/likebox.php?href=https%3A%2F%2Fwww.facebook.com%2Fcoscup&amp;width=288&amp;colorscheme=light&amp;show_faces=false&amp;stream=false&amp;header=true&amp;height=62" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:288px; height:62px; background-color: #fff"></iframe>
+  <div id="ipv6block"></div>
+  <h2>Social Buzz <small>(Tag: #coscup)</small></h2>
+  <div class="socialbuzz"></div>
+  <p class="more">More: <a href="https://search.twitter.com/search?q=coscup+OR+from%3Acoscup">Twitter</a>, <a href="http://www.plurk.com/psearch#q=COSCUP">Plurk</a> »</p>
+  <h2>COSCUP 2010 Videos</h2>
+  <iframe class="video" title="YouTube video player" width="288" height="246" style="width: 288px; height: 246px" src="http://www.youtube.com/embed/oglvhUuDEQQ?playlist=_xpucqO1VwA,wKpdP066z3c" frameborder="0"  allowfullscreen="allowfullscreen"></iframe>
+    <p class="more">More:
+        <a href="http://www.youtube.com/view_play_list?p=6B44377354D83D41">Day 1</a>,
+        <a href="http://www.youtube.com/view_play_list?p=31632A9DC6140024">Day 2</a>,
         <a href="http://www.youtube.com/view_play_list?p=C56D2E96312D2A53">Lightening talks</a> »
     </p>
-	<h2>COSCUP 2010 Photo Selections</h2>
-	<div class="images"></div>
-	<p class="more"><a href="http://www.flickr.com/groups/coscup2010-selection/pool/">View all »</a></p>
+  <h2>COSCUP 2010 Photo Selections</h2>
+  <div class="images"></div>
+  <p class="more"><a href="http://www.flickr.com/groups/coscup2010-selection/pool/">View all »</a></p>
 </div>
 
 ## COSCUP 2011
