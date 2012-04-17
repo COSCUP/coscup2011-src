@@ -1,8 +1,4 @@
-# config for apache (not github.com)
+# config for Apache (not Github Pages)
 
 AddType text/cache-manifest .appcache
-
-<Files site.appcache>
-	ExpiresActive On
-	ExpiresDefault "access"
-</Files>
+ExpiresByType text/cache-manifest "access plus 0 seconds"
