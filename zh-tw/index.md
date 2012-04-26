@@ -24,7 +24,7 @@
     </p>
   </div>
   <h2>COSCUP 2010 精選照片集</h2>
-  <div></div>
+  <div class="images"></div>
   <p class="more"><a href="http://www.flickr.com/groups/coscup2010-selection/pool/">瀏覽全部 »</a></p>
 </div>
 
