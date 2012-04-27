@@ -11,13 +11,9 @@
   <h2>Social Buzz <small>(Tag: #coscup)</small></h2>
   <div class="socialbuzz"></div>
   <p class="more">More: <a href="https://search.twitter.com/search?q=coscup+OR+from%3Acoscup">Twitter</a>, <a href="http://www.plurk.com/psearch#q=COSCUP">Plurk</a> »</p>
-  <h2>COSCUP 2010 Videos</h2>
-  <iframe class="video" title="YouTube video player" width="288" height="246" style="width: 288px; height: 246px" src="http://www.youtube.com/embed/oglvhUuDEQQ?playlist=_xpucqO1VwA,wKpdP066z3c" frameborder="0"  allowfullscreen="allowfullscreen"></iframe>
-    <p class="more">More:
-        <a href="http://www.youtube.com/view_play_list?p=6B44377354D83D41">Day 1</a>,
-        <a href="http://www.youtube.com/view_play_list?p=31632A9DC6140024">Day 2</a>,
-        <a href="http://www.youtube.com/view_play_list?p=C56D2E96312D2A53">Lightening talks</a> »
-    </p>
+  <h2>COSCUP 2011 Videos</h2>
+	<iframe class="video" title="YouTube video player" width="288" height="246" style="width: 288px; height: 246px" src="http://www.youtube.com/embed/dZs-OLcDfSs?playlist=IRCGdKukc38" frameborder="0"  allowfullscreen="allowfullscreen"></iframe>
+	<p class="more"><a href="http://www.youtube.com/playlist?list=PL1E00EBFE2E5E040F">View all »</a></p>
   <h2>COSCUP 2010 Photo Selections</h2>
   <div class="images"></div>
   <p class="more"><a href="http://www.flickr.com/groups/coscup2010-selection/pool/">View all »</a></p>

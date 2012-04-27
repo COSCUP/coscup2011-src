@@ -14,15 +14,9 @@
   <h2>Social Buzz <small>(Tag: #coscup)</small></h2>
   <div class="socialbuzz"></div>
   <p class="more">更多：<a href="https://search.twitter.com/search?q=coscup+OR+from%3Acoscup">Twitter</a>、<a href="http://www.plurk.com/psearch#q=COSCUP">噗浪</a> »</p>
-  <div>
-    <h2>COSCUP 2010 演講錄影</h2>
-    <iframe class="video" title="YouTube video player" width="288" height="246" style="width: 288px; height: 246px" src="http://www.youtube.com/embed/oglvhUuDEQQ?playlist=_xpucqO1VwA,wKpdP066z3c" frameborder="0"  allowfullscreen="allowfullscreen"></iframe>
-    <p class="more">瀏覽：
-      <a href="http://www.youtube.com/view_play_list?p=6B44377354D83D41">首日</a>、
-      <a href="http://www.youtube.com/view_play_list?p=31632A9DC6140024">次日</a>、
-      <a href="http://www.youtube.com/view_play_list?p=C56D2E96312D2A53">閃電秀</a> »
-    </p>
-  </div>
+	<h2>COSCUP 2011 演講錄影</h2>
+	<iframe class="video" title="YouTube video player" width="288" height="246" style="width: 288px; height: 246px" src="http://www.youtube.com/embed/dZs-OLcDfSs?playlist=IRCGdKukc38" frameborder="0"  allowfullscreen="allowfullscreen"></iframe>
+	<p class="more"><a href="http://www.youtube.com/playlist?list=PL1E00EBFE2E5E040F">瀏覽全部 »</a></p>
   <h2>COSCUP 2010 精選照片集</h2>
   <div class="images"></div>
   <p class="more"><a href="http://www.flickr.com/groups/coscup2010-selection/pool/">瀏覽全部 »</a></p>
