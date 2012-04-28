@@ -22,25 +22,11 @@ COSCUP 2011 網站提供下列**唯讀** JSON-P API 供第三方程式取用。�
 
 大約 ~50KB 大的 JSON 文件，列出 COSCUP 2011 的所有議程。可能的話，應用程式**應**留存此資料的快取（網路應用程式可以使用`localStorage`；[參考資料](http://diveintohtml5.org/storage.html)）。議程*可能*是照時間順序排列，但是不一定；程式**應**具有處理不照時間排列的資料的能力。另外，議程更新的時候講次在列表上的順序可能會改變；程式**不應**使用順序來辨識講次。
 
+主題列表以及會場會議廳的資訊也在此提供。
+
 時間的記錄方式為 UNIX Timestamp（1970/1/1 0:00 UT 至當時的秒差）。您可以使用 `isBreak` 屬性來檢查該「議程」是否為休息時間。
 
 **注意**: 不是每一項議程都會有主題類型以及語言等資訊。
-
-### 議程主題與類型 (`program/types`)
-
-* URL: `http://coscup.org/2011/api/program/types/`。[縮排顯示](http://json-indent.appspot.com/indent?url=http://coscup.org/2011/api/program/types/)。
-
-COSCUP 2011 的主題列表，被議程的 `type` 參數引用。注意 `id = 0` 代表**一般議程**，像是開幕、閉幕、休息等等。
-
-主題資訊應該不會隨著時間改變。
-
-### 會場會議廳 (`program/rooms`)
-
-* URL: `http://coscup.org/2011/api/program/rooms/`。[縮排顯示](http://json-indent.appspot.com/indent?url=http://coscup.org/2011/api/program/rooms/)。
-
-COSCUP 2011 會場各會議廳的名字，被議程的 `room` 參數引用。`id = 0` 代表 Keynote 與聯播議程。
-
-這個資訊應該不會隨時間改變。
 
 ### 贊助單位 (`sponsors`)
 

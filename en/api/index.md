@@ -22,25 +22,11 @@ Simply a proxy of `http://www.plurk.com/API/PlurkSearch/search?query=COSCUP`. Se
 
 A ~50KB JSON object that represents all the talks that will be given at COSCUP 2011. Your application **should** cache the result when possible (Web app may utilize `localStorage`; see [introduction](http://diveintohtml5.org/storage.html)). The talk array *may* ordered by time but not necessary &mdash; your application **must** be able to accept and process an unsorted list. Also, the placement of a talk on the list could vary as programs being updated &mdash; your application **must not** rely on the placement to identify the session.
 
+List of topics and the rooms in the venue is also included.
+
 Program time is represented in UNIX timestamp (seconds since 0:00 UT Jan 1st, 1970). Breaks can be determined by the property `isBreak`.
 
 **Important**: Language and topic types are optional information.
-
-### Program topics and types (`program/types`)
-
-* URL: `http://coscup.org/2011/api/program/types/`. [Indented view](http://json-indent.appspot.com/indent?url=http://coscup.org/2011/api/program/types/).
-
-List of topics in COSCUP 2011, referenced by program list with their `type`s. Noted that `id = 0` refer to **general sessions**, i.e. tea break, opening, closing, etc.
-
-Topics are not expected to change from time to time.
-
-### Venue rooms (`program/rooms`)
-
-* URL: `http://coscup.org/2011/api/program/rooms/`. [Indented view](http://json-indent.appspot.com/indent?url=http://coscup.org/2011/api/program/rooms/).
-
-Name of the rooms in the COSCUP 2011 venue, referenced by program list with their `room`s. `id = 0` stands for keynotes and all-room sessions.
-
-This list is not expected to change from time to time.
 
 ### Sponsors (`sponsors`)
 
