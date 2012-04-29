@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8" />
+  <title>COSCUP 2012</title>
+</head>
+<body>
+<script type="text/javascript">
+
+(function () {
+
+// deal with http://coscup.org/
+if (location.pathname === '/') {
+  window.location.replace('/2012/');
+  return;
+}
+
+// deal with http://coscup.org/2012/
+// redirect base on language
+var lang = navigator.language.toLowerCase();
+if (!lang)
+  lang = 'en';
+
+switch (lang) {
+  case 'zh-tw':
+  case 'zh':
+    window.location.replace('./zh-tw/');
+    break;
+  case 'zh-cn':
+    window.location.replace('./zh-cn/');
+    break;
+  case 'en':
+  default:
+    window.location.replace('./en/');
+    break;
+}
+
+})();
+
+</script>
+</body>
+</html>
