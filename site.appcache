@@ -31,6 +31,9 @@ http://ajax.googleapis.com/ajax/libs/jquery/1.5/jquery.min.js
 /2012-theme/assets/script.min.js
 /2012-theme/assets/style.css
 
+# program json data from API
+./api/program/
+
 # "*" Below guarantees non-cached files can be accessed when network is available
 NETWORK:
 *
