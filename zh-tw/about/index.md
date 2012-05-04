@@ -10,20 +10,17 @@ Coders、users 和 promoters 是讓 open source 軟體發光發熱的三大支�
 
 COSCUP 研討會已堂堂邁入第六年，六年來不但由各地社群共同舉辦，在眾多同好的參與之下，逐漸成長茁壯。無論你是寫 open source 軟體的開發者、熱衷 open source 軟體的推廣者、熟悉 open source 軟體的使用者或是想了解 open source 軟體的新手，都歡迎你來參加一年一度全台最大的開源人年會。
 
-### 2011 籌備團隊
+### 2012 籌備團隊
 
 此處僅列出各組組長，完整清單請見手冊。
 
-* 總召集人：Pingooo (Taipei Open Source Software User Group, Tossug)
-* 議程主席：Freedom (long time open source hacker)
-* 銷售經理：[Ernest Chiang](http://blog.ernestchiang.com/) (Mozilla Taiwan Community, MozTW)
-* 行銷經理：[Bob Chao](http://blog.bobchao.net/) (Mozilla Taiwan Community, MozTW)
-* 公關經理：Laetitia Hsu (WoFOSS)
-* 網站長：[timdream](http://timc.idv.tw/) (Mozilla Taiwan Community, MozTW)
-* 會眾長：choupi (Taipei Open Source Software User Group, Tossug)
-* 場務長：threesecond
+* 總召集人：[Bob Chao](http://blog.bobchao.net/) (Mozilla Corporation, Mozilla)
+* 議程主席：choupi (Taipei Open Source Software User Group, Tossug)
+* 銷售經理：Rex
+* 行銷公關經理： Jenhao 仁豪
+* 會眾長：Bryan
+* 場務長：Trista
 * 線路長：David Huang
-* 記錄長：[Yuren Ju](http://yurinfore.blogspot.com/) (Hacking Thrusday)
-* 輔導長：[Jouston](http://jouston.net/)
+* 記錄長：[Aminzai](http://aminzai.net/)
 * 會計：Lloyd Huang (Kaohsiung Linux User Group, KaLUG)
-* 行政秘書：[smallfish515](https://www.facebook.com/smallfish515) (Mozilla Taiwan Community, MozTW)
+* 行政秘書：[Toomore](http://blog.toomore.net/) (Mozilla Taiwan Community, MozTW)
