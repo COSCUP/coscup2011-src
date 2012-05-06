@@ -1,0 +1,6 @@
+# config for Apache (not Github Pages)
+# note: this file will not be copied by marksite, you must
+# manually copy these configs to vhost config
+
+AddType text/cache-manifest .appcache
+ExpiresByType text/cache-manifest "access plus 0 seconds"

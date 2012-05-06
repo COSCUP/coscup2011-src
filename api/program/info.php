@@ -1,6 +1,4 @@
 <?php
 $contents = array(
-	"index.php" => "Program JSON-P API",
-	"rooms" => "",
-	"types" => ""
+	"index.php" => "Program JSON-P API"
 );
