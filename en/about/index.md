@@ -4,7 +4,7 @@ Open source software is supported by 3 groups: coders, users and promoters. This
 
 COSCUP is organized by major open source communities in Taiwan. The major goal is to create a friendly and informative environment for people from different communities to make friends, learn new technologies and inspire each other.
 
-COSCUP 2011 is the 6th annual conference. During this time COSCUP has become the biggest annual open source community party in Taiwan. We want to bring communities together and hopefully be the catalyst for new and exciting projects.
+COSCUP 2011 is the 7th annual conference. During this time COSCUP has become the biggest annual open source community party in Taiwan. We want to bring communities together and hopefully be the catalyst for new and exciting projects.
 
 ### 2011 Organizing Team
 
